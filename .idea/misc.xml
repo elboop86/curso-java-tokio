@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Sentencias de control/pom.xml" />
+        <option value="$PROJECT_DIR$/tipos de operadores/pom.xml" />
+        <option value="$PROJECT_DIR$/tipos de operadores/unidad1/pom.xml" />
+        <option value="$PROJECT_DIR$/1.tipos de operadores/unidad1/pom.xml" />
+        <option value="$PROJECT_DIR$/java-tipo-de-datos/pom.xml" />
+        <option value="$PROJECT_DIR$/java-sentencia-de-control/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c01-tipo-de-datos/pom.xml" />
+        <option value="$PROJECT_DIR$/java-c02-sentencia-de-control/pom.xml" />
+        <option value="$PROJECT_DIR$/M1_01_Javier_Medina_Cabrerizo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
